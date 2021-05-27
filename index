@@ -1,0 +1,86 @@
+DIRC      Y`œÐã¨`œlåÐ          ¤          
+¦¶uÀ¥+é$/Æ‚iîüäh(­C 
+.gitignore        `œWÌ`œÍ           ¤          ;¾t˜WÐY§	TQNKiÿ÷¦ 	.metadata `œÎpÐ`œˆx          ¤          ,¡2~P´QiÜQCQ vM´ä¼Y! 	README.md `œñ·l`yÏ)Át          ¤          
+t´=fÆy
+*‘?¢Lˆxû·µ android/.gitignore        `œ?8(`œ894Åp          ¤          ^¨¶øzˆhˆ0ç©NÒˆv-½Çk android/app/build.gradle  `œˆÃ¸`Ëìöt          ¤          L"Ã<Ùi«;ÆìGÝC‚‰	É )android/app/src/debug/AndroidManifest.xml `œnøx`œ·À          ¤          …iñ‘]æújhÖüUˆ„º>
+ Þâ (android/app/src/main/AndroidManifest.xml  `œ+A|`œ'px          ¤           ¶ËZ¬CŒgyš‡|»2Kqd >android/app/src/main/kotlin/com/example/teste2/MainActivity.kt    `œ#À`yÏ)Át          ¤          Â÷@…óö¢¹•ø­Ÿ÷²ÄmÁ©à ;android/app/src/main/res/drawable-v21/launch_background.xml       `œäµÐ`yÏ)Át          ¤          ¾0G2ø„ I~½özUòaO¸÷ 7android/app/src/main/res/drawable/launch_background.xml   `œ¼)ð`yÏ)Át          ¤           Ûw»K{	Ö+GèÍÊÏjO) 4android/app/src/main/res/mipmap-hdpi/ic_launcher.png      `œ ‘Z€`yÏ)Át          ¤          º˜{y»Š5ÌfÃÁýDõ¥Rlx¾ 4android/app/src/main/res/mipmap-mdpi/ic_launcher.png      `œ!gá¤`yÏ)Át          ¤          Ñ	Ô9‚¾héä «v›]ã7Ñn± 5android/app/src/main/res/mipmap-xhdpi/ic_launcher.png     `œ!áœˆ`yÏ)Át          ¤          ÕñÈÓNzˆãø‹ê,:7
+Dhœ< 6android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png    `œ#L0`yÏ)Át          ¤          £Mcrî½²ŽE`NFîÚÒFQA›À 7android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png   `œ&#4`yÏ)Át          ¤          óDšŸ“&…I]Ÿ
+WòGSf 0android/app/src/main/res/values-night/styles.xml  `œ$8HL`yÏ)Át          ¤          ô×J£\(&Žx&BR¾o”ì5 *android/app/src/main/res/values/styles.xml        `œ'?<`œ'oþ8          ¤          Mx¬ZÞå0cå§iKMÝd¹N +android/app/src/profile/AndroidManifest.xml       `œÞ>è`yÏ)Át          ¤          eÅ¨cReç‘ ïUFØNäK‘­ android/build.gradle      `œ)T9`œ*ïD          ¤           U”­Ã£ùz¨®7ºV}”ù^èù· android/gradle.properties `œ'©T`yÏ)°¸          ¤           í¼jX¯Ý¢*D<u.ªãÖ$€QŸ 0android/gradle/wrapper/gradle-wrapper.properties  `œ*Ú”`yÏ)°¸          ¤          ÙDæ+Ï®dž¨	YŠ†Yˆeè android/settings.gradle   `œ3+½˜`yÏ)(…ð          ¤          >énö¸Ñr÷Í(ºej¬	tsm ios/.gitignore    `œ4°`yÏ)6\           ¤          “gÔƒäN§µƒ!Yg–Ð$×2 "ios/Flutter/AppFrameworkInfo.plist        `œ4èu¤`yÏ)DÔÐ          ¤           Y,îè[‰½w¶k	«mK ios/Flutter/Debug.xcconfig        `œ5Ÿåh`yÏ)T™ˆ          ¤           Y,îè[‰½w¶k	«mK ios/Flutter/Release.xcconfig      `œ0‚L`œ1í~          ¤          IÑþ‚ôŸôß%Ë.Î:%8Ãt|þ $ios/Runner.xcodeproj/project.pbxproj      `œ×`yÏ)d„ì          ¤           Ž‘”4¦%O–Qôsx¾f4 >œ Aios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata `œ
+éœ`yÏ)rG0          ¤           öÙ =hÐTlH¬/ô}Ù|ny! Nios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist    `œ5¼`yÏ)rG0          ¤           êù°×Åêñ”¾…ënèær‡ÿFD Rios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings        `œ2M|`yÏ)ê`          ¤          
+6¢@ÏÛ?ù·¡”—¸EFÖÛ*ú ;ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme       `œYœ`yÏ) B¬          ¤           ŸRjíÐÂ@„‹ô‰¹?ï£² /ios/Runner.xcworkspace/contents.xcworkspacedata   `œú& `yÏ) B¬          ¤           öÙ =hÐTlH¬/ô}Ù|ny! <ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist      `œ]Ÿ\`yÏ) B¬          ¤           êù°×Åêñ”¾…ënèær‡ÿFD @ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings  `œ+M8`yÏ)ê`          ¤          ¡pi>JŒÄ5t7L¥™¬Œ{ ios/Runner/AppDelegate.swift      `œ6LV¸`yÏ) B¬          ¤          
+QÓk«-êfŠOƒß”Õ%‰}žhÝ ;ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json       `œ7bÝ`yÏ) B¬          ¤          *´ÜšÚG%é°Ý±Þ«X>[QI:£2 Gios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png   `œ89ð`yÏ) B¬          ¤          4(Æ¿ol™KpósFåƒS Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png       `œ8”ª8`yÏ) B¬          ¤          ,Ëý–}–—ÍKƒ"UX¯)éW› Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png       `œ9KÙ$`yÏ) B¬          ¤          4ð‘¶°¼¨Y£ôt°0e¾÷[¥ŠžL Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png       `œ9Õ4Ð`yÏ) B¬          ¤          LÞÚH×üµ‰§Mœ]|µ Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png       `œ:ªŸø`yÏ) B¬          ¤          ´Ðïçí¸lßàÑ[K
+˜3J†6X Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png       `œ;-(Ä`yÏ) B¬          ¤          €ÜÜ#Â…ëÀ¶Ã£YÄÒR¿bkŸ Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png       `œ 5_H`yÏ) B¬          ¤          ,Ëý–}–—ÍKƒ"UX¯)éW› Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png       `œ Çˆx`yÏ) B¬          ¤          gÈùí\î˜8m±~‰÷è5U² Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png       `œ&Y `yÏ) B¬          ¤          
+i¦Ö¸`ð{ö.Q ¥:Qˆ½+" Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png       `œÎƒè`yÏ) B¬          ¤          
+i¦Ö¸`ð{ö.Q ¥:Qˆ½+" Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png       `œÑ2ô`yÏ) B¬          ¤          ÷u²Ñd¥©Ž!,Êê{ò«]å†€ Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png       `œ#Lˆ`yÏ) B¬          ¤          `ÄßpÓ§”óöÜ·ðj-Ë0 Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png       `œz§Ð`yÏ) B¬          ¤          Þj„ôâKñožã’y¬˜øÕ¬ Cios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png       `œ4Þ„`yÏ) B¬          ¤          Ðáõ…6jëÄñ÷Hi“Éÿ Gios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png   `œ+`yÏ) B¬          ¤          žíÏ/Ôgˆ®:¤#FuÿYµÁ  =ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json     `œ 8`yÏ) B¬          ¤           D¡ž¬­;»»Ý»ô¬HÝx³Ø8 ?ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png   `œÚ—Ø`yÏ) B¬          ¤           D¡ž¬­;»»Ý»ô¬HÝx³Ø8 Bios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png        `œþªð`yÏ) B¬          ¤           D¡ž¬­;»»Ý»ô¬HÝx³Ø8 Bios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png        `œ˜m`yÏ) B¬          ¤          T‰Âr[pñˆ+éRúþ"ÒzÀ 9ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md `œ•[p`yÏ) B¬          ¤          	nòâYÇÉ9öšk¾	æÜ6hHç -ios/Runner/Base.lproj/LaunchScreen.storyboard     `œ	µ`yÏ)Ž”          ¤          _óÂ…û8æMˆÏÏ_±yuß/ %ios/Runner/Base.lproj/Main.storyboard     `œ
+ó4P`œËÁÐ          ¤          "+Ûu«¤³–a³ñŽ`@Ð‹n ios/Runner/Info.plist     `œ,vÙ``yÏ)(…ð          ¤           '0Š*VBñz¯<6äéÈÍ/»~ #ios/Runner/Runner-Bridging-Header.h       `œ,[(©® `œ4ÿP«¤          ¤          TërbðÀóóÆAqªbT1ËX +lib/common/custom_drawer/custom_drawer.dart       `œ,['ó¤`¤d ¦5ô          ¤          ÓúMöŒw‡N×[áŠ
+%©1 *lib/common/custom_drawer/drawer_title.dart        `¤wc³˜Ô`¤}©ùÄ¸          ¤          } J2Ü·*MRÉ¸bÚ&|i lib/helpers/validators.dart       `œÈ$ä`¦´øïp          ¤          	 Ú T%úq(…v{ÉÞ“y5" 
+lib/main.dart     `œ.LÍÏÀ`œ/Ü2Ý4          ¤           "¯ÖëŠ.„µ
+W‚D¤í¸Æµw lib/models/cart_manager.dart      `œ.LAT`œ/Ü‹¯(          ¤           DøjÂWdMqóWcJýßŸçF  lib/models/cart_products.dart     `œ.L	JÍ`œ/Ü‘F¸          ¤          µ×7’$–B¥Ä—nµ:í#½“ .lib/models/home/components/section_header.dart    `œ.Lôyp`œ/Üð—P          ¤          x"sT6›[&À š±;TsÛt ,lib/models/home/components/section_list.dart      `œ.L	–¸ü`˜n»#m@          ¤            æâ›²ÑÖCK‹)®wZØÂäŒS‘ 1lib/models/home/components/section_staggered.dart `œ.L	ò	(`œ/Üù          ¤          	NÔè¯[þ‘%ÐáÄS]åJ›«Ÿ !lib/models/home/home_screens.dart `œ.Lœ8`œ/Üé{ü          ¤          …aø–KM"šÖÆ]¤*n8Ø=õ© lib/models/home_manager.dart      `œ.LðŒ`˜j{Ï           ¤            æâ›²ÑÖCK‹)®wZØÂäŒS‘ lib/models/item_size.dart `œ.Lb¼`˜bÃ¤­À          ¤          [ºä¼Æþ¾±1õ(~"‰DÝ†… lib/models/page_manager.dart      `œ.L›,`˜l_(·@          ¤           Û&0Ã®è+Y|ž®2ªœ1·óq0 lib/models/product.dart   `œ.LœT¸`œ/Ü
+ÀCä          ¤          «<ËÝ˜0ÌrðØÆß
+ŠL)q3X lib/models/product_manager.dart   `œ.Lö†d`œ/Ü9ò¬          ¤          Ñ¿Gjú.…’…RùÔ×JÒ¦ ß lib/models/section.dart   `œ.L™`˜hî1T€          ¤           ×4ÏjoÛöyµ? Ý¹ÏÂb!®"á} lib/models/section_item.dart      `œ.L^Aì`˜jÑ2À          ¤            æâ›²ÑÖCK‹)®wZØÂäŒS‘ lib/models/user.dart      `œ.LôðÄ`˜jñ@–À          ¤           Y´'àKãëE£ÿæÌ¾
+Þè	>ùœ lib/models/user_manager.dart      `œ04:Š `”9£?À          ¤          a¨´Ö=ùC¦¬Þ¥Íªl«"PÙ_ /lib/products/components/products_lit_title.dart   `œ0R®X`”2S8
+@          ¤          •“Ò-‰º‰Ê ]Ù‡U-¥üî¯« *lib/products/components/search_dialog.dart        `œ*%195``¤f¼@ˆT          ¤          $42ÉpÙ¿õBTØ9ÆŠÁ¬¥	 lib/screens/base_screen.dart      `œ0y./`’ ÈU€          ¤           éÂ•æö(t× ZÈâÔƒ?óy¡Žˆ $lib/screens/home/product_screen.dart      `¤eFL:è`¥i%P¨Ü          ¤          æç‰ÂÆ£òþXnéxÁÖšZ¥r #lib/screens/login/login_screen.dart       `ŸëEöLÐ`ŸíPUT          ¤          Ž82ÖÒ¾óæO¯ÖÒ…ö
+²w 'lib/screens/product/product_screen.dart   `œ0•:!žì`Ÿñu8N¿d          ¤          ¼àŸ¸¯ìý¡Mìhüò˜1®p )lib/screens/products/products_screen.dart `œ (B´h`œ-æ(³½           ¤          xmH<A6 v·Þ²[ýÚÖ—\á pubspec.lock      `œÛ­ð`œ-É' ô           ¤          ÷Ô´„q›l‹JÌì‚èêH
+i pubspec.yaml      `œ—Ê„`œ/Ü˜,|          ¤          3î“A“ËšS¨ìÐ|˜VHœ2x\• test/widget_test.dart     TREE  Ü 89 4
+ÍÆþÆ\V­×¢ôD„(àÛÍ-eios 38 4
+Óýà:ØMù4NÕA„eRunner 26 2
+€vUk3
+±mWXä¹Ê§+F3]qBase.lproj 2 0
+lŽsl‘1Ëí@$j­lGKã½?Assets.xcassets 21 2
+€ÝhH0™X€S^±ýÓž7’™YAppIcon.appiconset 16 0
+„Ð{P{Œ$:±ÐˆôÀªLaunchImage.imageset 5 0
+éQjtO­"ºÃå.9†iv"Flutter 3 0
+ÓA¶õZem·>
+7PáÝ
+ÑÕJëRunner.xcodeproj 5 2
+‚FB (.ÜF¼0ÑºG¢þ“o’a;xcshareddata 1 1
+E0?™Xæ8úøstHm–¸#5xcschemes 1 0
+$V”Îlã9ó[µŠey`º›&¦¼project.xcworkspace 3 1
+Ó¹àªúpçµÞm6P=ïU^8gxcshareddata 2 0
+óF^5?/‚{:jÐõ61Ç…Runner.xcworkspace 3 1
+¥tûž9`Ž•	'Ù(¶
+íJƒyZxcshareddata 2 0
+óF^5?/‚{:jÐõ61Ç…lib 26 5
+]Ü'ƒ q`§á™º¡ò_rÐ=common 2 1
+R fÿbœ¹}QŸáe?Û¢Úåcustom_drawer 2 0
+‡MË¶FúPûcJ¾+Vså‰models 15 1
+@mø­š©°ÿÄŽ
+
+•c8Aˆ,Fhome 4 1
+7ä6¯	,qÀ|˜ü§ÈW÷ücomponents 3 0
+j“B€«8$`¡Å‰Å½æ(¨W!Ÿhelpers 1 0
+×,-wg~ùyÇG!ªvLscreens 5 4
+mø˜mdç¦oúÑÚcá0üùd`mhome 1 0
+Þhok8liº±ci¡iûSF—login 1 0
+
+´i²®k™ä´]¼ ‘¼‘product 1 0
+×½[~ïÈÔ={¸g…#¦¼‹Iproducts 1 0
+£ò,¤æ²3l\^†yz¥Uproducts 2 1
+Ê‘ÄEk†OÙà’ì†*ËöÏ('components 2 0
+X~g‚Y&0‚®ÆösJS{¬test 1 0
+áòDNPãá{Ö38í€Ïandroid 19 2
+à4-x¢
+
+¼ü”‰øÓ°ÅêÉapp 14 1
+å¬"‚€™„GY©Å¡ïÝsrc 13 3
+þR„Í‚ÕM¿yGDùâœóçrõ‚main 11 2
+>I5-Há„EMûVö'\ res 9 9
+†«R›uwÒÜç1^©ÍCe[8³£values 1 0
+ :nÀY«"QšÎÕ‘ `È¥£Ë>drawable 1 0
+£	‰†êl	Z{Žœ¿kB{Vmipmap-hdpi 1 0
+¦6Šðîv(úNøþ;¾E#=nmipmap-mdpi 1 0
+F·&½SÔ~aº”³U¹Èc>»ª drawable-v21 1 0
+i
+»©) ÙË_$áY(ƒÔ‰Úmipmap-xhdpi 1 0
+×aÅ1xÌQòRàGû/nQ.Ðvalues-night 1 0
+‹‰…´á×0Y *‡õa¬7Aš©êmipmap-xxhdpi 1 0
+6ËÎgkÏ½ß¦‰¹Ð«ò:ÄÒæmipmap-xxxhdpi 1 0
+=óÑ©ìŸA›¿2ÇÛ×ÿã•w·kotlin 1 1
+Õ¥	ÑW°ö+zx>emÿ¸com 1 1
+E4-¸®þHq.`to~yexample 1 1
+–þÀ=l:K‘E,…y©½=Tteste2 1 0
+¦âÕU`‡d/^_©´òÝò¡ëdebug 1 0
+ò¤MÃ=MÁmá“Ã^gÖI#profile 1 0
+î#:GPD‰„N,\Ýbšý5ºdgradle 1 1
+“<U{Ç*ÌdI2|Ÿú¦“X™ƒwrapper 1 0
+Dc°ébM£ž¬ù- ç¼||dð:KÈòZM`Ð>B­[@s°
